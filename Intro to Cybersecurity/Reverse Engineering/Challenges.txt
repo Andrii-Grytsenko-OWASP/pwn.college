@@ -1,6 +1,6 @@
 Challenges
 [X] File Formats: Magic Numbers (Python)
-[ ] File Formats: Magic Numbers (C)
+[X] File Formats: Magic Numbers (C)
 [ ] File Formats: Magic Numbers (x86)
 [ ] 
 [ ] 
