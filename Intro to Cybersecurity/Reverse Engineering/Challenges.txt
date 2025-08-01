@@ -2,39 +2,39 @@ Challenges
 [X] File Formats: Magic Numbers (Python)
 [X] File Formats: Magic Numbers (C)
 [X] File Formats: Magic Numbers (x86)
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
+[ ] Reading Endianness (Python)
+[ ] Reading Endianness (C)
+[ ] Reading Endianness (x86)
+[ ] Version Information (Python)
+[ ] Version Information (C)
+[ ] Version Information (x86)
+[ ] Meta Data and Data (Python)
+[ ] Meta Data and Data (C)
+[ ] Meta Data and Data (x86)
+[ ] Input Restrictions (Python)
+[ ] Input Restrictions (C)
+[ ] Input Restrictions (x86)
+[ ] Behold the cIMG (Python)
+[ ] Behold the cIMG (C)
+[ ] Behold the cIMG (x86)
+[ ] A Basic cIMG (Python)
+[ ] A Basic cIMG (C)
+[ ] A Basic cIMG (x86)
+[ ] Internal State (Python)
+[ ] Internal State (C)
+[ ] Internal State (x86)
+[ ] The Formats: Directives (C)
+[ ] The Formats: Directives
+[ ] The Patch Directive
+[ ] Optimizing for Space
+[ ] Tweaking Images
+[ ] Storage and Retrieval
+[ ] Extracting Knowledge
+[ ] Advanced Sprites
+[ ] Accessing Resources
+[ ] Unsafe Animations
+[ ] Animations
+[ ] Interoperability: Patching Data
+[ ] Patching Code
+[ ] Patching Control Flow
 
