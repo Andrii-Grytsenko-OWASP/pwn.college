@@ -10,3 +10,4 @@ byte_length -> in how many bytes int should be converted to
 byteorder -> "big", "little"
 
 
+"unsigned int" in C occupies exactly 4 bytes
