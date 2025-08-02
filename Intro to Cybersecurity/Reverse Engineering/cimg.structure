@@ -6,3 +6,7 @@ HEADER {
   WIDTH 4/8 bytes
   HEIGHT 4/8 bytes
 }
+DATA {
+  PIXEL {
+  } * WIDTH * HEIGHT
+}
