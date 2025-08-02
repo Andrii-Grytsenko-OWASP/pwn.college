@@ -1,40 +1,40 @@
 Challenges
-[X] File Formats: Magic Numbers (Python)
-[X] File Formats: Magic Numbers (C)
-[X] File Formats: Magic Numbers (x86)
-[X] Reading Endianness (Python)
-[X] Reading Endianness (C)
-[X] Reading Endianness (x86)
-[X] Version Information (Python)
-[X] Version Information (C)
-[X] Version Information (x86)
-[ ] Meta Data and Data (Python)
-[ ] Meta Data and Data (C)
-[ ] Meta Data and Data (x86)
-[ ] Input Restrictions (Python)
-[ ] Input Restrictions (C)
-[ ] Input Restrictions (x86)
-[ ] Behold the cIMG (Python)
-[ ] Behold the cIMG (C)
-[ ] Behold the cIMG (x86)
-[ ] A Basic cIMG (Python)
-[ ] A Basic cIMG (C)
-[ ] A Basic cIMG (x86)
-[ ] Internal State (Python)
-[ ] Internal State (C)
-[ ] Internal State (x86)
-[ ] The Formats: Directives (C)
-[ ] The Formats: Directives
-[ ] The Patch Directive
-[ ] Optimizing for Space
-[ ] Tweaking Images
-[ ] Storage and Retrieval
-[ ] Extracting Knowledge
-[ ] Advanced Sprites
-[ ] Accessing Resources
-[ ] Unsafe Animations
-[ ] Animations
-[ ] Interoperability: Patching Data
-[ ] Patching Code
-[ ] Patching Control Flow
-
+01 [X] File Formats: Magic Numbers (Python)
+02 [X] File Formats: Magic Numbers (C)
+03 [X] File Formats: Magic Numbers (x86)
+04 [X] Reading Endianness (Python)
+05 [X] Reading Endianness (C)
+06 [X] Reading Endianness (x86)
+07 [X] Version Information (Python)
+08 [X] Version Information (C)
+09 [X] Version Information (x86)
+10 [ ] Meta Data and Data (Python)
+11 [ ] Meta Data and Data (C)
+12 [ ] Meta Data and Data (x86)
+13 [ ] Input Restrictions (Python)
+14 [ ] Input Restrictions (C)
+15 [ ] Input Restrictions (x86)
+16 [ ] Behold the cIMG (Python)
+17 [ ] Behold the cIMG (C)
+18 [ ] Behold the cIMG (x86)
+19 [ ] A Basic cIMG (Python)
+20 [ ] A Basic cIMG (C)
+21 [ ] A Basic cIMG (x86)
+22 [ ] Internal State Mini (C)
+23 [ ] Internal State Mini (x86)
+24 [ ] Internal State (C)
+25 [ ] Internal State (x86)
+26 [ ] The Formats: Directives (C)
+27 [ ] The Formats: Directives
+28 [ ] The Patch Directive
+29 [ ] Optimizing for Space
+30 [ ] Tweaking Images
+31 [ ] Storage and Retrieval
+32 [ ] Extracting Knowledge
+33 [ ] Advanced Sprites
+34 [ ] Accessing Resources
+35 [ ] Unsafe Animations
+36 [ ] Animations
+37 [ ] Interoperability: Patching Data
+38 [ ] Patching Code
+39 [ ] Patching Control Flow
