@@ -1,0 +1,11 @@
+Here is a skeleton of a python script for writing a bytes into a file
+
+import sys
+
+image_file = 'image.cimg'
+
+image_header = b"bytes\x00\x01\x02\x0a\x0d"
+
+f = open(image_file, 'wb')
+f.write(image_header)
+f.close()
