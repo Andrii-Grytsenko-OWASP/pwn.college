@@ -3,4 +3,6 @@ cIMG file structure
 HEADER {
   MAGIC_NUMBERS 4 bytes
   VERSION 1/2 bytes
+  WIDTH 4/8 bytes
+  HEIGHT 4/8 bytes
 }
