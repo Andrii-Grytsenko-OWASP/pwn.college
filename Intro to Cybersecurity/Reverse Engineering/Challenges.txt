@@ -1,40 +1,40 @@
 Challenges
-01 [X] File Formats: Magic Numbers (Python)
-02 [X] File Formats: Magic Numbers (C)
-03 [X] File Formats: Magic Numbers (x86)
-04 [X] Reading Endianness (Python)
-05 [X] Reading Endianness (C)
-06 [X] Reading Endianness (x86)
-07 [X] Version Information (Python)
-08 [X] Version Information (C)
-09 [X] Version Information (x86)
-10 [ ] Meta Data and Data (Python)
-11 [ ] Meta Data and Data (C)
-12 [ ] Meta Data and Data (x86)
-13 [ ] Input Restrictions (Python)
-14 [ ] Input Restrictions (C)
-15 [ ] Input Restrictions (x86)
-16 [ ] Behold the cIMG (Python)
-17 [ ] Behold the cIMG (C)
-18 [ ] Behold the cIMG (x86)
-19 [ ] A Basic cIMG (Python)
-20 [ ] A Basic cIMG (C)
-21 [ ] A Basic cIMG (x86)
-22 [ ] Internal State Mini (C)
-23 [ ] Internal State Mini (x86)
-24 [ ] Internal State (C)
-25 [ ] Internal State (x86)
-26 [ ] The Formats: Directives (C)
-27 [ ] The Formats: Directives
-28 [ ] The Patch Directive
-29 [ ] Optimizing for Space
-30 [ ] Tweaking Images
-31 [ ] Storage and Retrieval
-32 [ ] Extracting Knowledge
-33 [ ] Advanced Sprites
-34 [ ] Accessing Resources
-35 [ ] Unsafe Animations
-36 [ ] Animations
-37 [ ] Interoperability: Patching Data
-38 [ ] Patching Code
-39 [ ] Patching Control Flow
+01 01p [X] File Formats: Magic Numbers (Python)
+02 01c [X] File Formats: Magic Numbers (C)
+03 01b [X] File Formats: Magic Numbers (x86)
+04 02p [X] Reading Endianness (Python)
+05 02c [X] Reading Endianness (C)
+06 02b [X] Reading Endianness (x86)
+07 03p [X] Version Information (Python)
+08 03c [X] Version Information (C)
+09 03b [X] Version Information (x86)
+10 04p [ ] Meta Data and Data (Python)
+11 04c [ ] Meta Data and Data (C)
+12 04b [ ] Meta Data and Data (x86)
+13 05p [ ] Input Restrictions (Python)
+14 05c [ ] Input Restrictions (C)
+15 05b [ ] Input Restrictions (x86)
+16 06p [ ] Behold the cIMG (Python)
+17 06c [ ] Behold the cIMG (C)
+18 06b [ ] Behold the cIMG (x86)
+19 07p [ ] A Basic cIMG (Python)
+20 07c [ ] A Basic cIMG (C)
+21 07b [ ] A Basic cIMG (x86)
+22 08c [ ] Internal State Mini (C)
+23 08b [ ] Internal State Mini (x86)
+24 09c [ ] Internal State (C)
+25 09b [ ] Internal State (x86)
+26 10c [ ] The Formats: Directives (C)
+27 10b [ ] The Formats: Directives
+28 11b [ ] The Patch Directive
+29 12b [ ] Optimizing for Space
+30 13b [ ] Tweaking Images
+31 14b [ ] Storage and Retrieval
+32 15b [ ] Extracting Knowledge
+33 16b [ ] Advanced Sprites
+34 17b [ ] Accessing Resources
+35 18b [ ] Unsafe Animations
+36 19b [ ] Animations
+37 20b [ ] Interoperability: Patching Data
+38 21b [ ] Patching Code
+39 22b [ ] Patching Control Flow
