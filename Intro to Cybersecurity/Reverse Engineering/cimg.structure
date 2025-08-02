@@ -1,0 +1,6 @@
+cIMG file structure
+
+HEADER {
+  MAGIC_NUMBERS 4 bytes
+  VERSION 1/2 bytes
+}
