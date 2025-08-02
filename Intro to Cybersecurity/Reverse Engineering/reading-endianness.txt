@@ -1,0 +1,12 @@
+For conversion between integer and bytes (to and from) there are two functons of int object:
+int.from_bytes() to convert from bytes to integer
+int.to_butes() to convert from int to bytes
+
+int.from_bytes(bytes, byteorder, *, signed=False)
+byteorder -> "big", "little"
+
+int.to_bytes(byte_length, byteorder)
+byte_length -> in how many bytes int should be converted to
+byteorder -> "big", "little"
+
+
