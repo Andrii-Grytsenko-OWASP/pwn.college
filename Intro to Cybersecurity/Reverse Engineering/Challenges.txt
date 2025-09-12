@@ -25,7 +25,7 @@ Challenges
 24 09c [X] Internal State (C)
 25 09b [X] Internal State (x86)
 26 10c [X] The Formats: Directives (C)
-27 10b [ ] The Formats: Directives
+27 10b [X] The Formats: Directives
 28 11b [ ] The Patch Directive
 29 12b [ ] Optimizing for Space
 30 13b [ ] Tweaking Images
