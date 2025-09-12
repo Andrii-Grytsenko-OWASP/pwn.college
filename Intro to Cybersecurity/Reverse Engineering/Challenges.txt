@@ -22,8 +22,8 @@ Challenges
 21 07b [X] A Basic cIMG (x86)
 22 08c [X] Internal State Mini (C)
 23 08b [X] Internal State Mini (x86)
-24 09c [ ] Internal State (C)
-25 09b [ ] Internal State (x86)
+24 09c [X] Internal State (C)
+25 09b [X] Internal State (x86)
 26 10c [ ] The Formats: Directives (C)
 27 10b [ ] The Formats: Directives
 28 11b [ ] The Patch Directive
