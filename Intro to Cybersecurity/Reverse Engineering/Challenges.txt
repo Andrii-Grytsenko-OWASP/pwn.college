@@ -27,7 +27,7 @@ Challenges
 26 10c [X] The Formats: Directives (C)
 27 10b [X] The Formats: Directives
 28 11b [X] The Patch Directive
-29 12b [ ] Optimizing for Space
+29 12b [X] Optimizing for Space
 30 13b [ ] Tweaking Images
 31 14b [ ] Storage and Retrieval
 32 15b [ ] Extracting Knowledge
