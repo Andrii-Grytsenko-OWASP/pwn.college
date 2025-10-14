@@ -29,7 +29,7 @@ Challenges
 28 11b [X] The Patch Directive
 29 12b [X] Optimizing for Space
 30 13b [X] Tweaking Images
-31 14b [ ] Storage and Retrieval
+31 14b [X] Storage and Retrieval
 32 15b [ ] Extracting Knowledge
 33 16b [ ] Advanced Sprites
 34 17b [ ] Accessing Resources
