@@ -30,7 +30,7 @@ Challenges
 29 12b [X] Optimizing for Space
 30 13b [X] Tweaking Images
 31 14b [X] Storage and Retrieval
-32 15b [ ] Extracting Knowledge
+32 15b [X] Extracting Knowledge
 33 16b [ ] Advanced Sprites
 34 17b [ ] Accessing Resources
 35 18b [ ] Unsafe Animations
