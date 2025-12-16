@@ -33,7 +33,7 @@ Challenges
 32 15b [X] Extracting Knowledge
 33 16b [X] Advanced Sprites
 34 17b [X] Accessing Resources
-35 18b [ ] Unsafe Animations
+35 18b [X] Unsafe Animations
 36 19b [ ] Animations
 37 20b [ ] Interoperability: Patching Data
 38 21b [ ] Patching Code
