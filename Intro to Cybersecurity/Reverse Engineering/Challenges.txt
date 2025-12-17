@@ -35,6 +35,6 @@ Challenges
 34 17b [X] Accessing Resources
 35 18b [X] Unsafe Animations
 36 19b [X] Animations
-37 20b [ ] Interoperability: Patching Data
+37 20b [X] Interoperability: Patching Data
 38 21b [ ] Patching Code
 39 22b [ ] Patching Control Flow
