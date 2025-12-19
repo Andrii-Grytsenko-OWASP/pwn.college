@@ -37,4 +37,4 @@ Challenges
 36 19b [X] Animations
 37 20b [X] Interoperability: Patching Data
 38 21b [X] Patching Code
-39 22b [ ] Patching Control Flow
+39 22b [X] Patching Control Flow
