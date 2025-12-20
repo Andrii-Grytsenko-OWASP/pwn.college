@@ -2,7 +2,7 @@
 [X] 02 Send
 [X] 03 Shutdown
 [X] 04 Listen
-[ ] 05 Scan 1
+[X] 05 Scan 1
 [ ] 06 Scan 2
 [ ] 07 Monitor 1
 [ ] 08 Monitor 2
