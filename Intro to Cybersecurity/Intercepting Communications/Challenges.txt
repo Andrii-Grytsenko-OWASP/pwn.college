@@ -1,0 +1,29 @@
+[X] 01 Connect
+[X] 02 Send
+[X] 03 Shutdown
+[X] 04 Listen
+[ ] 05 Scan 1
+[ ] 06 Scan 2
+[ ] 07 Monitor 1
+[ ] 08 Monitor 2
+[ ] 09 Sniffing Cookies
+[ ] 10 Network Configuration
+[ ] 11 Firewall 1
+[ ] 12 Firewall 2
+[ ] 13 Firewall 3
+[ ] 14 Denial of Service 1
+[ ] 15 Denial of Service 2
+[ ] 16 Denial of Service 3
+[ ] 17 Ethernet
+[ ] 18 IP
+[ ] 19 TCP
+[ ] 20 TCP Handshake
+[ ] 21 UDP
+[ ] 22 UDP 2
+[ ] 23 UDP Spoofing 1
+[ ] 24 UDP Spoofing 2
+[ ] 25 UDP Spoofing 3
+[ ] 26 UDP Spoofing 4
+[ ] 27 ARP
+[ ] 28 Intercept
+[ ] 29 Man-in-the-Middle
